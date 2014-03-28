@@ -1,0 +1,3 @@
+[submodule "slides/stop-designing-pages"]
+	path = slides/stop-designing-pages
+	url = https://github.com/waako/stop-designing-pages.git
